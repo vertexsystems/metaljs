@@ -1,0 +1,7 @@
+
+Grunt project options:
+
+  build        Build all project;
+  help         Display this help message;
+  release      Build project and create a zip file; and
+  test         Perform a full project test;
